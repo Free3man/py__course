@@ -1,5 +1,5 @@
 import math
-x = int(input("Input x:"))
+x = float(input("Input x:"))
 cosh = math.cosh(x)
 exp = math.exp(x)
 e = math.e
